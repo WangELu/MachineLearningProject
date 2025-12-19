@@ -59,7 +59,7 @@ To reproduce the results, please follow these steps:
    ```bash
    git clone [https://github.com/WangELu/MachineLearningProject.git](https://github.com/WangELu/MachineLearningProject.git)
    
-2.**Install the required libraries:**
+2. **Install the required libraries:**
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow
 
 3. **Prepare the Data:**
