@@ -55,15 +55,20 @@ The residual analysis shows that the model is reliable in the critical zone (RUL
 
 To reproduce the results, please follow these steps:
 
-1. Clone this repository.
-2. Ensure you have the following libraries installed:
-   - pandas
-   - numpy
-   - matplotlib
-   - scikit-learn
-   - xgboost
-   - tensorflow
-3. Open the notebook `Project_Notebook_Finale.ipynb` and run all cells sequentially.
+1. **Clone this repository:**
+   ```bash
+   git clone [https://github.com/WangELu/MachineLearningProject.git](https://github.com/WangELu/MachineLearningProject.git)
+   
+2.**Install the required libraries:**
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow
+
+3. **Prepare the Data:**
+   Locate the file resources.zip included in this repository.
+   
+   Unzip it inside the main folder.
+
+4. **Run the Code:**
+   Open the notebook Project_Notebook_Finale.ipynb and run all cells sequentially.
 
 ## References
 
