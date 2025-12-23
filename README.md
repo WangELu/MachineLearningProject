@@ -50,7 +50,9 @@ The residual analysis shows that the model is reliable in the critical zone (RUL
 * **Project_Notebook_Finale.ipynb**: The Jupyter Notebook containing the data pipeline, model training, and evaluation.
 * **Project_Report.pdf**: The detailed scientific report explaining our approach and results.
 * **README.md**: Project documentation.
-
+* **Project_ML.mp4**: Explanatory video of the project. 
+* **Ressources.zip**: all the datasets we used.
+  
 ## Installation and Usage
 
 To reproduce the results, please follow these steps:
